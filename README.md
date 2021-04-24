@@ -1,22 +1,2 @@
 # Chess-dAPP
--start
--Install-Microsoft-"Chess Free."-
--InstallMicrosoftChess-Free.-
--..........-
--play chess-
--play chess against any of its AI or human modes
--resolve-
--end-start-end-start-resolve-start-
--end-end-end-end-
--start-art-trees-peace-and-love-
--GG-GG- The Code Of The Honourable -GG-GG-
--open-
--closed-
--partially open-
--partially closed-
--repeat-
--finish-
--repeat-etc.-etc.-etc.
--Miss Anne Duthers-et al.-et al.-et al-
--et al.-
--end-
+Try beat this chess logic at chess lol
